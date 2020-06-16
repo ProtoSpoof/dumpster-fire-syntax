@@ -1,13 +1,15 @@
 {
   "name": "dumpster-fire-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "1.0.0",
+  "description": "It's something alright!",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "dumpster",
+    "fire"
   ],
-  "repository": "https://github.com/atom/dumpster-fire-syntax",
+  "repository": "https://github.com/ProtoSpoof/dumpster-fire-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
